@@ -9,4 +9,4 @@ def login():
     else:  
         print("Invalid username or password. Please try again.")  
   
-  
+login()  
